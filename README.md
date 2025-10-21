@@ -2,7 +2,17 @@
 
 To be used with a Micro:bit V1 or V2 with a Grove adapter.
 
-## Lighing
+## Basics
+
+### Happy Sad Face
+
+Press Button A for a happy face and Button B for a sad face. 
+
+### Shake Dice
+
+Shake the Micro:bit to get a random number.
+
+## Lighting
 
 ### Clap Light
 
