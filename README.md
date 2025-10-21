@@ -1,6 +1,6 @@
-# Micro:bit Examples
+# BBC Micro:bit Examples
 
-## Clap Light=
+## Clap Light
 
 Clap your hands to switch the Neopixels on P2 on and off. Uses a variable to store the current state of the lights.
 
@@ -8,6 +8,6 @@ Clap your hands to switch the Neopixels on P2 on and off. Uses a variable to sto
 
 The ultrasonic sensor on P1 measures the distance up to 1m and lights up the Neopixels on P2 accordigly.
 
-## Turn Light=
+## Turn Light
 
 As you turn the potentiometer on P1 the Neopixels change colour.
