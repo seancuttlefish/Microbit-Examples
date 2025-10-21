@@ -6,7 +6,7 @@ To be used with a Micro:bit V1 or V2 with a Grove adapter.
 
 ### Clap Light
 
-Clap your hands to switch the Neopixels on P2 on and off. Uses a variable to store the current state of the lights. Uses Neopixel Extension. Requires a Micro:bit V2, with a microphone.
+Clap your hands to switch the Neopixels on P2 on and off. Uses a variable to store the current state of the lights. Uses Neopixel Extension. **Requires a Micro:bit V2, with a microphone.**
 
 ### Distance Light
 
