@@ -36,6 +36,6 @@ Transmit A and B button presses over the radio to set Neopixels on P2 to red and
 
 Use the A and B buttons to set the **single** analogue servo on P1 to 0 or 180 degrees. **Note that this needs a powered Grove aapter, such as from Seeed Studio, to get sufficient voltage to operate the servo.** When you have programmed the Micro:bit, move the USB cable to the board. Uses Servo Extension.
 
-### Kitronik Create Three Servo board
+### Kitronik Create Three Servo Board
 
 Connect **three** 360 degree servos to the Kitronic Create Servo board and start and stop them with the A and B Buttons. The yellow connector goes next to the servo number. Uses the Kitronik Create Servo Board extension.
